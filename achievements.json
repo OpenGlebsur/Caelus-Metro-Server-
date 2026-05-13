@@ -1,0 +1,10 @@
+{
+  "achievements": [
+    { "id": "first_game", "name": "First Game", "desc": "Play any game for the first time", "icon": "🎮", "reward": 50, "target": 1 },
+    { "id": "coins_100", "name": "Coin Collector", "desc": "Collect 100 coins total", "icon": "🪙", "reward": 100, "target": 100 },
+    { "id": "jump_1000", "name": "Jump Master", "desc": "Jump 1000 times", "icon": "⬆️", "reward": 75, "target": 1000 },
+    { "id": "creator", "name": "Creator", "desc": "Create your first level in Studio", "icon": "🛠️", "reward": 200, "target": 1 },
+    { "id": "play_5", "name": "Player", "desc": "Play 5 different games", "icon": "🕹️", "reward": 50, "target": 5 },
+    { "id": "builder", "name": "Builder", "desc": "Create 10 games", "icon": "🏗️", "reward": 500, "target": 10 }
+  ]
+}

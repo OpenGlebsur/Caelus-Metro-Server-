@@ -1,1 +1,33 @@
-
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Caelus's Playground",
+      "thumbnail": "https://www.caelus.lol/images/thumbnails/e772f875a5e11ee5a2365bec4e4115ae5883c2fe17c43941f89adc72148cddbe.png",
+      "image": "https://www.caelus.lol/images/thumbnails/e772f875a5e11ee5a2365bec4e4115ae5883c2fe17c43941f89adc72148cddbe.png",
+      "description": "Caelus's Playground Includes a boombox for everyone, play your music for free while you hang out with your friends ! Gamble your virtual Money with chances of doubling it and becoming the richest. ** ABUSING ADMIN WILL RESULT IN BAN ** https://www.caelus.lol/catalog/2594/VIP - Buy this T-shirt for VIP https://https://www.caelus.lol/catalog/15548/Mod - Buy this T-shirt for MOD Commands : /e caramel !sit !re !r6 !r15 More soon."
+    },
+    {
+      "id": 2,
+      "name": "Tower Of Hell",
+      "thumbnail": "https://www.caelus.lol/images/thumbnails/09e1a1d6a3f54fbab2393e925650f35ef143d431ee693d043ce620df71711bf1.png",
+      "image": "https://www.caelus.lol/images/thumbnails/09e1a1d6a3f54fbab2393e925650f35ef143d431ee693d043ce620df71711bf1.png",
+      "description": "Can you be the first to the top in this randomly generated obby with absolutely no checkpoints at all?"
+    },
+    {
+      "id": 3,
+      "name": "[NDS] Natural Disaster Survival",
+      "thumbnail": "https://www.caelus.lol/images/thumbnails/ff22037f82254b816573d3a543db0c3870521337e4ccd150c60c2cbadd8b3b3b.png",
+      "image": "https://www.caelus.lol/images/thumbnails/ff22037f82254b816573d3a543db0c3870521337e4ccd150c60c2cbadd8b3b3b.png",
+      "description": "Quickly, run around in circles! Your life depends on it! If you come by any bugs, please message me them or message me on discord. Everything should work if not i am working on it!!"
+    },
+    {
+      "id": 4,
+      "name": "The Elevator [EVENT]",
+      "thumbnail": "https://www.caelus.lol/images/thumbnails/b266fdb40aa751a7ca4e71ee587e739bc9bdc30079a179fa5108f81d87f24ddb.png",
+      "image": "https://www.caelus.lol/images/thumbnails/b266fdb40aa751a7ca4e71ee587e739bc9bdc30079a179fa5108f81d87f24ddb.png",
+      "description": "idk what to type here but, its christmas so hohoho, also buy vip for many more things such as vip only commands, money boost and exclusive vip tag: https://www.caelus.lol/catalog/12790/VIP-for-the-elevator"
+    },
+  
+  ]
+}

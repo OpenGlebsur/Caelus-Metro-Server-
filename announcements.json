@@ -1,5 +1,10 @@
 {
   "announcements": [
+     {
+      "id": 103,
+      "name": "LEGACY CAELUS 1.0 WAS BACK",
+      "description": "Explore legacy caelus with feature Legacy Mode"
+    },
     {
       "id": 102,
       "name": "Caelus Metro Revived by reopen",

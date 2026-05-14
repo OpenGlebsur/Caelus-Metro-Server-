@@ -5,6 +5,10 @@
       "name": "Caelus Metro Revived by reopen",
       "description": "Now you can use caelus metro with new servers by reopen"
     },
-      
+    {
+      "id": 103,
+      "name": "Caelus Legacy was back",
+      "description": "Explore new feature Legacy mode where you can explore legacy pages"
+    }
   ]
 }

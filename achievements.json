@@ -1,0 +1,100 @@
+{
+  "achievements": [
+    { "id": "first_game", "name": "First Game", "desc": "Play any game for the first time", "icon": "🎮", "reward": 50, "target": 1 },
+    { "id": "play_5", "name": "Player", "desc": "Play 5 different games", "icon": "🕹️", "reward": 50, "target": 5 },
+    { "id": "play_10", "name": "Gamer", "desc": "Play 10 games", "icon": "🎯", "reward": 100, "target": 10 },
+    { "id": "play_25", "name": "Addict", "desc": "Play 25 games", "icon": "🎲", "reward": 150, "target": 25 },
+    { "id": "play_50", "name": "Veteran", "desc": "Play 50 games", "icon": "🏅", "reward": 200, "target": 50 },
+    { "id": "play_100", "name": "Centurion", "desc": "Play 100 games", "icon": "💯", "reward": 500, "target": 100 },
+    { "id": "play_1000", "name": "Legend", "desc": "Play 1000 games", "icon": "🌟", "reward": 1000, "target": 1000 },
+
+    { "id": "coins_10", "name": "First Coins", "desc": "Collect 10 coins total", "icon": "🪙", "reward": 20, "target": 10 },
+    { "id": "coins_50", "name": "Pocket Money", "desc": "Collect 50 coins total", "icon": "💰", "reward": 50, "target": 50 },
+    { "id": "coins_100", "name": "Coin Collector", "desc": "Collect 100 coins total", "icon": "🪙", "reward": 100, "target": 100 },
+    { "id": "coins_500", "name": "Treasure Hunter", "desc": "Collect 500 coins", "icon": "💎", "reward": 200, "target": 500 },
+    { "id": "coins_1000", "name": "Gold Rush", "desc": "Collect 1000 coins", "icon": "🏆", "reward": 500, "target": 1000 },
+    { "id": "coins_5000", "name": "Millionaire", "desc": "Collect 5000 coins", "icon": "👑", "reward": 1000, "target": 5000 },
+
+    { "id": "jump_10", "name": "Jumper", "desc": "Jump 10 times", "icon": "⬆️", "reward": 10, "target": 10 },
+    { "id": "jump_50", "name": "Bouncy", "desc": "Jump 50 times", "icon": "🐇", "reward": 25, "target": 50 },
+    { "id": "jump_100", "name": "Hopper", "desc": "Jump 100 times", "icon": "🦘", "reward": 50, "target": 100 },
+    { "id": "jump_500", "name": "Acrobat", "desc": "Jump 500 times", "icon": "🤸", "reward": 100, "target": 500 },
+    { "id": "jump_1000", "name": "Jump Master", "desc": "Jump 1000 times", "icon": "⬆️", "reward": 75, "target": 1000 },
+    { "id": "jump_5000", "name": "Sky Walker", "desc": "Jump 5000 times", "icon": "☁️", "reward": 200, "target": 5000 },
+
+    { "id": "creator", "name": "Creator", "desc": "Create your first level in Studio", "icon": "🛠️", "reward": 200, "target": 1 },
+    { "id": "creator_5", "name": "Builder", "desc": "Create 5 levels", "icon": "🏗️", "reward": 150, "target": 5 },
+    { "id": "creator_10", "name": "Architect", "desc": "Create 10 levels", "icon": "📐", "reward": 300, "target": 10 },
+    { "id": "creator_25", "name": "Engineer", "desc": "Create 25 levels", "icon": "🔧", "reward": 500, "target": 25 },
+    { "id": "creator_100", "name": "Level Factory", "desc": "Create 100 levels", "icon": "🏭", "reward": 1000, "target": 100 },
+
+    { "id": "avatar_custom", "name": "Stylist", "desc": "Customize your avatar for the first time", "icon": "👗", "reward": 30, "target": 1 },
+    { "id": "avatar_buy", "name": "Shopper", "desc": "Buy your first item from Marketplace", "icon": "🛍️", "reward": 40, "target": 1 },
+    { "id": "avatar_10", "name": "Collector", "desc": "Own 10 items", "icon": "🎒", "reward": 100, "target": 10 },
+    { "id": "avatar_50", "name": "Wardrobe", "desc": "Own 50 items", "icon": "👚", "reward": 300, "target": 50 },
+    { "id": "avatar_100", "name": "Fashionista", "desc": "Own 100 items", "icon": "👠", "reward": 500, "target": 100 },
+    { "id": "avatar_all", "name": "Completionist", "desc": "Own all marketplace items", "icon": "🌟", "reward": 1000, "target": 1000 },
+
+    { "id": "search_1", "name": "Explorer", "desc": "Use search for the first time", "icon": "🔍", "reward": 10, "target": 1 },
+    { "id": "search_10", "name": "Researcher", "desc": "Search 10 times", "icon": "📚", "reward": 50, "target": 10 },
+    { "id": "search_100", "name": "Librarian", "desc": "Search 100 times", "icon": "📖", "reward": 100, "target": 100 },
+    { "id": "search_1000", "name": "Google", "desc": "Search 1000 times", "icon": "🌐", "reward": 200, "target": 1000 },
+
+    { "id": "studio_test", "name": "Tester", "desc": "Test your level in Studio", "icon": "🧪", "reward": 20, "target": 1 },
+    { "id": "studio_undo", "name": "Time Traveler", "desc": "Use Undo in Studio", "icon": "⏪", "reward": 15, "target": 1 },
+    { "id": "studio_redo", "name": "Forward", "desc": "Use Redo in Studio", "icon": "⏩", "reward": 15, "target": 1 },
+    { "id": "studio_save", "name": "Saver", "desc": "Save a level", "icon": "💾", "reward": 10, "target": 1 },
+    { "id": "studio_load", "name": "Loader", "desc": "Load a saved level", "icon": "📂", "reward": 10, "target": 1 },
+
+    { "id": "login_1", "name": "Welcome", "desc": "Sign in to Caelus", "icon": "🔑", "reward": 50, "target": 1 },
+    { "id": "login_10", "name": "Regular", "desc": "Log in 10 times", "icon": "📅", "reward": 100, "target": 10 },
+    { "id": "login_100", "name": "Loyal", "desc": "Log in 100 times", "icon": "💖", "reward": 500, "target": 100 },
+    { "id": "login_1000", "name": "Forever Fan", "desc": "Log in 1000 times", "icon": "🏡", "reward": 1000, "target": 1000 },
+
+    { "id": "chat_1", "name": "Chatter", "desc": "Send your first chat message", "icon": "💬", "reward": 5, "target": 1 },
+    { "id": "chat_10", "name": "Talkative", "desc": "Send 10 messages", "icon": "🗣️", "reward": 20, "target": 10 },
+    { "id": "chat_100", "name": "Socializer", "desc": "Send 100 messages", "icon": "📢", "reward": 50, "target": 100 },
+    { "id": "chat_1000", "name": "Megaphone", "desc": "Send 1000 messages", "icon": "📣", "reward": 100, "target": 1000 },
+
+    { "id": "enemy_kill_1", "name": "Survivor", "desc": "Touch an enemy (and respawn)", "icon": "💀", "reward": 5, "target": 1 },
+    { "id": "enemy_kill_10", "name": "Reckless", "desc": "Touch enemies 10 times", "icon": "⚔️", "reward": 30, "target": 10 },
+    { "id": "enemy_kill_100", "name": "Daredevil", "desc": "Touch enemies 100 times", "icon": "💥", "reward": 100, "target": 100 },
+    { "id": "enemy_kill_1000", "name": "Immortal", "desc": "Touch enemies 1000 times", "icon": "🛡️", "reward": 500, "target": 1000 },
+
+    { "id": "flag_1", "name": "Winner", "desc": "Reach the flag once", "icon": "🏁", "reward": 50, "target": 1 },
+    { "id": "flag_5", "name": "Runner", "desc": "Reach the flag 5 times", "icon": "🎌", "reward": 100, "target": 5 },
+    { "id": "flag_10", "name": "Marathoner", "desc": "Reach the flag 10 times", "icon": "🏃", "reward": 200, "target": 10 },
+    { "id": "flag_100", "name": "Speedrunner", "desc": "Reach the flag 100 times", "icon": "⏱️", "reward": 500, "target": 100 },
+    { "id": "flag_1000", "name": "Unstoppable", "desc": "Reach the flag 1000 times", "icon": "🏆", "reward": 1000, "target": 1000 },
+
+    { "id": "time_10min", "name": "Playtime", "desc": "Play for 10 minutes total", "icon": "⏳", "reward": 25, "target": 1 },
+    { "id": "time_1h", "name": "Hourglass", "desc": "Play for 1 hour", "icon": "⌛", "reward": 50, "target": 1 },
+    { "id": "time_10h", "name": "Dedicated", "desc": "Play for 10 hours", "icon": "🕰️", "reward": 200, "target": 1 },
+    { "id": "time_100h", "name": "No Life", "desc": "Play for 100 hours", "icon": "🛌", "reward": 1000, "target": 1 },
+    { "id": "time_1000h", "name": "Eternal", "desc": "Play for 1000 hours", "icon": "♾️", "reward": 5000, "target": 1 },
+
+    { "id": "level_share", "name": "Sharer", "desc": "Export a level for others", "icon": "📤", "reward": 100, "target": 1 },
+    { "id": "level_import", "name": "Importer", "desc": "Import someone else's level", "icon": "📥", "reward": 100, "target": 1 },
+
+    { "id": "guest_play", "name": "Guest Star", "desc": "Play as a guest", "icon": "👤", "reward": 20, "target": 1 },
+    { "id": "guest_win", "name": "Guest Champion", "desc": "Win a level as a guest", "icon": "🏵️", "reward": 50, "target": 1 },
+
+    { "id": "achievement_view", "name": "Curious", "desc": "Open the Achievements page", "icon": "📋", "reward": 10, "target": 1 },
+    { "id": "achievement_share", "name": "Bragger", "desc": "Share an achievement", "icon": "📢", "reward": 25, "target": 1 },
+
+    { "id": "gallery_view", "name": "Sightseer", "desc": "View a game's screenshots", "icon": "🖼️", "reward": 5, "target": 1 },
+    { "id": "gallery_all", "name": "Tourist", "desc": "View screenshots of 10 different games", "icon": "📸", "reward": 50, "target": 10 },
+
+    { "id": "profile_visit", "name": "Networker", "desc": "Visit another player's profile", "icon": "👥", "reward": 20, "target": 1 },
+    { "id": "profile_10", "name": "Social Butterfly", "desc": "Visit 10 profiles", "icon": "🦋", "reward": 100, "target": 10 },
+
+    { "id": "game_rate", "name": "Critic", "desc": "Rate a game", "icon": "⭐", "reward": 10, "target": 1 },
+    { "id": "game_review", "name": "Reviewer", "desc": "Write a review", "icon": "✍️", "reward": 25, "target": 1 },
+
+    { "id": "daily_1", "name": "Daily Login", "desc": "Log in 5 days in a row", "icon": "📆", "reward": 50, "target": 5 },
+    { "id": "daily_10", "name": "Weekly Warrior", "desc": "Log in 10 days in a row", "icon": "🗓️", "reward": 200, "target": 10 },
+    { "id": "daily_100", "name": "Committed", "desc": "Log in 100 days in a row", "icon": "🔥", "reward": 1000, "target": 100 },
+
+    { "id": "all_achievements", "name": "Completionist", "desc": "Unlock every achievement", "icon": "🏆", "reward": 5000, "target": 1000 }
+  ]
+}

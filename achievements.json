@@ -1,1 +1,5 @@
-{}
+{
+  "achievements": [
+    { "id": "shutdown_caelus", "name": "Caelus Metro was shutdown.", "desc": "For more Info visit: http://ws-rework.atwebpages.com/caelus-metro/shutdown/", "icon": "", "reward": 0, "target": 0 }
+  ]
+}

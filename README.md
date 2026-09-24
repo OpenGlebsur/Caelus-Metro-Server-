@@ -1,3 +1,3 @@
 Caelus Metro Revived
-Caelus Metro is shutting down.
+Caelus Metro was shutdown.
 For more Info visit: http://ws-rework.atwebpages.com/caelus-metro/shutdown/
